@@ -37,7 +37,7 @@ CREATE TABLE `alert` (
 --
 
 INSERT INTO `alert` (`id`, `content`) VALUES
-(1, 'Chào mừng bạn đến với server Hunghh \n       HUNGHH.SITE:\n-----------------------------------\n- Tăng tỷ lệ rơi TTTT tại làng cổ\n- Update phân thân dùng được Nhân Sâm\n-----------------------------------\n- Nhận quà tân thủ tại NPC ADMIN\n- Gift code tân thử: hunghh2022 (Nhập tại NPC Rakki)\n- Kiếm Lượng: điểm danh ngày, hoàn thành NVHN, hoàn thành 2 lần hang động, hoàn thành LDGT\n- Kiếm Xu: hoàn thành NVHN, chiến thắng/vào top CHIẾN TRƯỜNG\n- Kiếm Yên: Farm quái thường 500k yên, tinh anh 1tr yên, thủ lĩnh 2tr yên');
+(1, 'Chào mừng bạn đến với server Hunghh \n       HUNGHH.SITE:\n-----------------------------------\n- Tăng tỷ lệ rơi TTTT tại làng cổ\n- Update phân thân dùng được Nhân Sâm\n-----------------------------------\n- Nhận quà tân thủ tại NPC ADMIN\n- Gift code tân thử: HUNGHH2022 (Nhập tại NPC Rakki)\n- Kiếm Lượng: điểm danh ngày, hoàn thành NVHN, hoàn thành 2 lần hang động, hoàn thành LDGT\n- Kiếm Xu: hoàn thành NVHN, chiến thắng/vào top CHIẾN TRƯỜNG\n- Kiếm Yên: Farm quái thường 500k yên, tinh anh 1tr yên, thủ lĩnh 2tr yên');
 
 -- --------------------------------------------------------
 
